@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    display: block;
+    border: 0;
+}
+
+video {
+    box-sizing: content-box;
+}
+
+a {
+    text-decoration: none ;
+    display: block;
+    color: #000;
+}
+
+body {
+    color: #000;
+    font-family: "Noto Sans KR", "Inter", sans-serif;
+}
+
+
+
